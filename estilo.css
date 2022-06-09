@@ -16,7 +16,7 @@ body {
 .nm {display: none;}
 .quiniela {
     margin: auto;
-    background-image: url("../img/quiniela.png");
+    background-image: url("quiniela.png");
     background-size: 100%;
     background-repeat: no-repeat;
     width: 400px;
@@ -25,7 +25,7 @@ body {
 /**
 .quiniela {
     margin: auto;
-    background-image: url("../img/Fondo2.png");
+    background-image: url("Fondo2.png");
     background-size: 100%;
     background-repeat: no-repeat;
     max-width: 400px;
