@@ -50,7 +50,7 @@ function start(){
 			  		cell2.style.fontSize = "x-small";
 
 			  	let cell3 = fila.insertCell(10);
-			  	cell3.innerHTML += "<img src=\"img/borrar.png\" width=\"75%\">";
+			  	cell3.innerHTML += "<img src=\"borrar.png\" width=\"75%\">";
 			  	cell3.style.width = "7%";
 			  	cell3.style.border = "none";
 			  	cell3.id = "x" + i;
