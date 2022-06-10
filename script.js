@@ -135,7 +135,7 @@ function selection(element){ 	//Pinta la casilla y actualiza el texto de la quin
             res[index] += element.id.slice(0,1);
             res[index] = res[index].split('_').join('');
         }
-        element.style.backgroundColor = "#2E2E2E";
+        element.style.backgroundColor = "#06bce9";
     }
     else{
         if(combinations){
